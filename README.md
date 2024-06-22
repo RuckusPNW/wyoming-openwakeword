@@ -1,6 +1,6 @@
 # Wyoming openWakeWord
 
-[Wyoming protocol](https://github.com/rhasspy/wyoming) server for the [openWakeWord](https://github.com/dscripka/openWakeWord) wake word detection system.
+[Wyoming protocol](https://github.com/rhasspy/wyoming) server for the [openWakeWord](https://github.com/dscripka/openWakeWord) wake word detection system. All credit to original developer. Fixes here include requirements.txt for tensorflow and numpy. Testing working 6-22-24.
 
 
 ## Home Assistant Add-on
